@@ -30,7 +30,7 @@ I'm open to collaborating on:
 ## 📫 Connect with Me  
 - **GitHub:** [Aditya5757raj](https://github.com/Aditya5757raj)  
 - **LinkedIn:** [Aditya Raj](https://linkedin.com/in/aditya-raj)  
-- **Instagram:** [@aditya_raj](https://instagram.com/aditya_raj)  
+- **Instagram:** [@aditya_raj](https://www.instagram.com/me__aditya__/)  
 
 ---
 
