@@ -1,12 +1,40 @@
-- 👋 Hi, I’m @Adityaraj.
-- 👀 I’m interested in cloud computing.
-- 🌱 I’m currently learning aws,google cloud platform.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on instragram.
-- 😄 engineering student.
+# Hi there! 👋 I'm Aditya Raj  
 
+🎓 **Engineering Student** | 🚀 **Cloud Computing Enthusiast** | 🌟 **Pre-final Year at UPES**  
 
-<!---
-Aditya5757raj/Aditya5757raj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 👀 About Me  
+- Passionate about **cloud computing**, especially **AWS**, **Azure**, and **Google Cloud Platform (GCP)**.  
+- Currently learning and exploring **generative AI** and **cloud security**.  
+- Aiming to solve real-world problems using **data structures**, **algorithms**, and **cloud services**.  
+
+---
+
+## 🌱 Skills  
+- **Programming Languages:** Java, C, Node.js, SQL, HTML, CSS  
+- **Cloud Services:** AWS (VPC, Lambda, EC2, S3, DynamoDB, API Gateway), Azure, GCP  
+- **Tools & Frameworks:** Spring Boot, MongoDB, MySQL/PostgreSQL  
+- **Specializations:** Cloud security, backend technologies, and scalable system design  
+
+---
+
+## 💞️ Collaboration Interests  
+I'm open to collaborating on:  
+1. **Cloud-based projects** that use AWS, GCP, or Azure.  
+2. **Innovative tech solutions** leveraging data structures and algorithms.  
+3. **Open-source contributions** that enhance learning and networking.  
+
+---
+
+## 📫 Connect with Me  
+- **GitHub:** [Aditya5757raj](https://github.com/Aditya5757raj)  
+- **LinkedIn:** [Aditya Raj](https://linkedin.com/in/aditya-raj)  
+- **Instagram:** [@aditya_raj](https://instagram.com/aditya_raj)  
+
+---
+
+### 😄 Fun Fact  
+I love exploring **emerging technologies** and actively participate in tech events, hackathons, and community activities like NSS and GDSC.  
+
+Thanks for visiting my profile! 😊  
